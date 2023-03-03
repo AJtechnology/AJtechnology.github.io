@@ -1023,7 +1023,7 @@ pre code {
     margin-left: 91.66667%;
   }
 }
-@media (min-width: 750px) {
+@media (min-width: 768px) {
   .col-md {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
