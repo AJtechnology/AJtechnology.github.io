@@ -45,14 +45,14 @@ h5,
   color: #f7ca44 !important;
 }
 
-.ftco-navbar-light {
+/* .ftco-navbar-light {
   background: transparent !important;
   position: absolute;
   left: 0;
   right: 0;
   z-index: 3;
   top: 10px;
-}
+} */
 /* The dropdown container */
 /* .dropdown {
   float: left;
