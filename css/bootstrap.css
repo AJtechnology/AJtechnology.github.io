@@ -857,6 +857,7 @@ pre code {
     flex: 0 0 25%;
     max-width: 10;
   }
+  /* max-width for col.sm-3 was originally 25 percent but did not fit mobilly.  */
   .col-sm-4 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 33.33333%;
@@ -5990,7 +5991,7 @@ button.bg-light:hover {
   background-color: #dae0e5 !important;
 }
 .bg-dark {
-  background-color: #000 !important;
+  background-color: black !important;
 }
 a.bg-dark:focus,
 a.bg-dark:hover,
